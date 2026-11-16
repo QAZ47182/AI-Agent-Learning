@@ -1,0 +1,14 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
+venv/
+
+# 环境变量与密钥
+.env
+.env.*
+
+# VS Code 个人配置
+.vscode/
